@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NMCProject</string>
+    <item name="lblDisplay" type="id" />
+    <item name="txtLname" type="id" />
+    <item name="btnback" type="id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment one </string>
+    <string name="hello_blank_fragment2"> fragment two </string>
+</resources>
